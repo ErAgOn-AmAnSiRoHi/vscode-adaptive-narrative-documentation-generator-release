@@ -61,7 +61,7 @@ You can configure the extension settings in VSCode:
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/ErAgOn-AmAnSiRoHi/vscode-adaptive-narrative-documentation-generator/blob/main/LICENSE)
 
 ## Repository
 
