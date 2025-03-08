@@ -1,4 +1,7 @@
 # vscode-adaptive-narrative-documentation-generator-release
+
+## GO TO THE RELEASES SECTION TO DOWNLOAD THE VSCODE EXTENSION.
+
 VSCode extension to generate narrative documentation for codebases. This is the public version of my private repository to share the extension release publicly.
 
 ---
